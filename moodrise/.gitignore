@@ -46,3 +46,9 @@ app.*.map.json
 
 
 lib/firebase_options.dart
+.dart_tool/
+.build/
+.idea/
+.metadata
+/packages
+build/
