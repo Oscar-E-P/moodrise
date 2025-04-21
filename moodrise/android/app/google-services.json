@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149270457535",
+    "project_id": "moodrise-c0310",
+    "storage_bucket": "moodrise-c0310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149270457535:android:c673b82729dab82ff56a0a",
+        "android_client_info": {
+          "package_name": "com.example.moodrise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8C6ImnA_2gPw4dzDV4EX3bnDAh2arQBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
